@@ -36,7 +36,7 @@ export default function Portfolios() {
           <figcaption>
             <h5>Blog Website</h5>
 
-            <a href="https://raja0110h.github.io/Project-Planner-WebPage/"></a>
+            <a href="https://ejs-blog-website-113.herokuapp.com/"></a>
           </figcaption>
         </figure>
       </div>
