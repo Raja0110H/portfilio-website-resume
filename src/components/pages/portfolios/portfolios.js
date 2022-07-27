@@ -17,7 +17,7 @@ export default function Portfolios() {
           <figcaption>
             <h5> Project Tracker(Sample)</h5>
 
-            <a href=""></a>
+            <a href="https://raja0110h.github.io/Project-Planner-SamplePG/"></a>
           </figcaption>
         </figure>
         <figure className="secondary__container">
