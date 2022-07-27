@@ -16,10 +16,6 @@ export default function Portfolios() {
           <img src={img1} alt="" style={{ height: "22.5em", width: "20em" }} />
           <figcaption>
             <h5> Project Tracker(Sample)</h5>
-<<<<<<< HEAD
-=======
-
->>>>>>> 12d5a1a4f84cb7e6ead376b0b33706ef2955d883
             <a href="https://raja0110h.github.io/Project-Planner-SamplePG/"></a>
           </figcaption>
         </figure>
