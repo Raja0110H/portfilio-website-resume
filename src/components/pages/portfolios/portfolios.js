@@ -48,32 +48,19 @@ export default function Portfolios() {
         }}
       >
         <div style={{ position: "relative", left: "80px", top: "50px" }}>
-          <button className="source_code_button">
-            {" "}
-            <a href="https://github.com/Raja0110H/Project-Planner-SamplePG"
-  >
-              {" "}
-              Source Code
-            </a>
-          </button>
+          <a href="https://github.com/Raja0110H/Project-Planner-SamplePG">
+            <button className="source_code_button"> Source Code </button>
+          </a>
         </div>
         <div style={{ position: "relative", left: "0px", top: "50px" }}>
-          <button className="source_code_button">
-            {" "}
-            <a href="https://github.com/Raja0110H/e-commerce-react-website">
-              {" "}
-              Source Code
-            </a>
-          </button>
+          <a href="https://github.com/Raja0110H/e-commerce-react-website">
+            <button className="source_code_button"> Source Code </button>
+          </a>
         </div>
         <div style={{ position: "relative", left: "-80px", top: "50px" }}>
-          <button className="source_code_button">
-            {" "}
-            <a href="https://github.com/Raja0110H/EJS-Blog-Website">
-              {" "}
-              Source Code
-            </a>
-          </button>
+          <a href="https://github.com/Raja0110H/EJS-Blog-Website">
+            <button className="source_code_button"> Source Code </button>
+          </a>
         </div>
       </div>
 
