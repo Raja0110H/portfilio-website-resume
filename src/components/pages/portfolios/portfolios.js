@@ -28,14 +28,13 @@ export default function Portfolios() {
           />
           <figcaption>
             <h5>Ecommerce Website</h5>
-            <a href="https://e-commerce-113.herokuapp.com/signup"></a>
+            <a href=" https://elaborate-daifuku-bab7c4.netlify.app/"></a>
           </figcaption>
         </figure>
         <figure className="secondary__container">
           <img src={blog} alt="" style={{ height: "22.5em", width: "20em" }} />
           <figcaption>
             <h5>Blog Website</h5>
-
             <a href="https://ejs-blog-website-113.herokuapp.com/"></a>
           </figcaption>
         </figure>
@@ -47,19 +46,19 @@ export default function Portfolios() {
           justifyContent: "space-between",
         }}
       >
-        <div style={{ position: "relative", left: "80px", top: "50px" }}>
+        <div style={{ position: "relative", left: "27rem", top: "50px" }}>
           <a href="https://github.com/Raja0110H/Project-Planner-SamplePG">
-            <button className="source_code_button"> Source Code </button>
+            Source Code
           </a>
         </div>
         <div style={{ position: "relative", left: "0px", top: "50px" }}>
-          <a href="https://github.com/Raja0110H/e-commerce-react-website">
-            <button className="source_code_button"> Source Code </button>
+          <a href="https://github.com/Raja0110H/eCommerceWebsite">
+            Source Code
           </a>
         </div>
-        <div style={{ position: "relative", left: "-80px", top: "50px" }}>
+        <div style={{ position: "relative", right: "28rem", top: "50px" }}>
           <a href="https://github.com/Raja0110H/EJS-Blog-Website">
-            <button className="source_code_button"> Source Code </button>
+            Source Code
           </a>
         </div>
       </div>
