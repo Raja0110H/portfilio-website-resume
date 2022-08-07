@@ -1,5 +1,5 @@
 
-$ git clone https://github.com/Raja0110H/Project-Planner-SamplePG.git        
+$ git clone https://github.com/Raja0110H/portfilioWebsite.git      
 $ cd project 
 $ npm install -g serve;  
 # Start development
