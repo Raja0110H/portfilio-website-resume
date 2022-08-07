@@ -1,4 +1,7 @@
 
+
+# Some basic Git commands are:
+
 $ git clone https://github.com/Raja0110H/portfilioWebsite.git      
 $ cd project 
 $ npm install -g serve;  
