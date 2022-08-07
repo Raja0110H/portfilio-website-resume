@@ -1,13 +1,7 @@
-
-
 # Some basic Git commands are:
 
 $ git clone https://github.com/Raja0110H/portfilioWebsite.git      
 $ cd project 
-$ npm install -g serve;  
-# Start development
-$ type "serve" -- in terminal 
-
 
 # Install  Dependecies
 
@@ -26,7 +20,4 @@ Css,
 Javascript,
 React.js,
 react-redux,
-Firebase,
-materialize-css,
-node-sass, 
-react-stripe-checkout,
+
