@@ -17,7 +17,7 @@ https://raja0110h.github.io/Project-Planner-SamplePG/
 
 Html,
 Css,
-Scss
+Sass
 Javascript,
 React.js,
 react-redux,
