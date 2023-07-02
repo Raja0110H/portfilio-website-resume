@@ -6,6 +6,8 @@ $ cd project
 # Install  Dependecies
 
 $ npm install
+or
+$ npm install --legacy-peer-deps
 
 # start project 
 $npm start --- in terminal
