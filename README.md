@@ -12,9 +12,6 @@ $ npm install --legacy-peer-deps
 # start project 
 $npm start --- in terminal
   
-# website url  
-https://raja0110h.github.io/Project-Planner-SamplePG/
-
 # tools
 
 Html,
