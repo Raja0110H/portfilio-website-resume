@@ -1,4 +1,4 @@
-import Navbar from "../../navbar/Navbar";
+
 import React from "react";
 
 export default function Educations() {
