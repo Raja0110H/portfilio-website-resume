@@ -1,6 +1,6 @@
 
 # website url 
-https://rajahamiltonprofile.netlify.app/
+https://rajahamilton0110seniorswe.netlify.app/
 
 # Some basic Git commands are:
 $ git clone https://github.com/Raja0110H/portfilioWebsite.git      
