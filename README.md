@@ -1,5 +1,8 @@
-# Some basic Git commands are:
 
+# website url 
+https://rajahamiltonprofile.netlify.app/
+
+# Some basic Git commands are:
 $ git clone https://github.com/Raja0110H/portfilioWebsite.git      
 $ cd project 
 
@@ -20,4 +23,6 @@ Sass
 Javascript,
 React.js,
 react-redux,
+
+
 
