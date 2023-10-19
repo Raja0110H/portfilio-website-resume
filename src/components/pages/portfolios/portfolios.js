@@ -28,7 +28,7 @@ export default function Portfolios() {
           />
           <figcaption>
             <h5>Ecommerce Website</h5>
-            <a href=" https://elaborate-daifuku-bab7c4.netlify.app/"></a>
+            <a href=" https://rh0110ecommerce-react.netlify.app/"></a>
           </figcaption>
         </figure>
         <figure className="secondary__container">
