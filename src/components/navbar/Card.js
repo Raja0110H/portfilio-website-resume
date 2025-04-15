@@ -8,7 +8,7 @@ export default function Card(props){
         <div className="card-image">
           <img className="activator" src={image} alt="HTML,CSS,JS,BTS Logo" />
           <div className="btn-floating halfway-fab waves-effect waves-light red">
-            <i className="material-icons activator">more_vert</i>
+            <i className="material-icons activator">more_vert_updating</i>
           </div>
         </div>
         <div className="card-content">
