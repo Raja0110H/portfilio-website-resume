@@ -14,7 +14,7 @@ export default function Educations() {
             <thead>
               <tr>
                 <th>Degree</th>
-                <th>Date</th>
+                <th>Year</th>
                 <th>Institution</th>
                 <th></th>
               </tr>
@@ -22,7 +22,7 @@ export default function Educations() {
             <tbody>
               <tr>
                 <td>Computer Science</td>
-                <td>Jan 2018</td>
+                <td>2018</td>
                 <td>Southern Virginia University</td>
               </tr>
             </tbody>
