@@ -1,6 +1,6 @@
 
 # website url 
-https://rajahamilton0110seniorswe.netlify.app/
+https://main.duqw1mhb88ig9.amplifyapp.com/
 
 # Some basic Git commands are:
 $ git clone https://github.com/Raja0110H/portfilioWebsite.git      
